@@ -1,9 +1,7 @@
-import omni.usd
+import omni
 from pxr import UsdGeom, Sdf, Gf, Usd, UsdPhysics
-from omni.isaac.dynamic_control import _dynamic_control
 
 
-dc = _dynamic_control.acquire_dynamic_control_interface()
 stage = omni.usd.get_context().get_stage()
 
 CUBE_PATH = "/World/Cube"
@@ -19,7 +17,7 @@ def get_world_position(prim_path):
 
 attached = False
 
-def on_update():
+def on_update(dt):
     global attached
 
     robot_pos = get_world_position(BASE_LINK_PATH)
