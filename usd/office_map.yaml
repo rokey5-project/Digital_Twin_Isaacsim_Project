@@ -1,0 +1,6 @@
+image: office_map.png
+resolution: 0.019000000902451575
+origin: [-15.456500556494575, -9.433500793005805, 0.0000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
