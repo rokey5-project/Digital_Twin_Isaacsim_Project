@@ -1,0 +1,6 @@
+image: PROJECT_2.png
+resolution: 0.05
+origin: [-15.924999809265136, -8.275000190734863, 0.0000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
