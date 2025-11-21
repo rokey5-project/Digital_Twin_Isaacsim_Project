@@ -1,4 +1,4 @@
-# 디지털 트윈 기반 로봇 자동화 시뮬레이션 시스템 구현 프로젝트
+# 디지털트윈 로봇 자동화 시뮬레이션 시스템 구현 프로젝트
 
 ![Tumbnail](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fbem3I6%2FdJMcaiuUShO%2FAAAAAAAAAAAAAAAAAAAAAPLtGiC6eyGGCSR8b-TmPBZTQXyvgqP9pe2PeYOwzeHQ%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1764514799%26allow_ip%3D%26allow_referer%3D%26signature%3DZ9GaePCN5lV%252FuoDymPCXFJCwF%252FI%253D)
 
@@ -193,7 +193,7 @@ subscription = omni.kit.app.get_app().get_update_event_stream().create_subscript
 
 ## 🙉 시연 영상
 
-![](https://blog.kakaocdn.net/dna/cxzYb2/dJMcagKGf76/AAAAAAAAAAAAAAAAAAAAADvhfxBE9Qb5KQtPHAeulpPgV8Y0roBC2kpuq9icklOw/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=Kb2TjjMXJxNNieoCCUWffJbwYmY%3D)
+![시연 영상](https://blog.kakaocdn.net/dna/cxzYb2/dJMcagKGf76/AAAAAAAAAAAAAAAAAAAAADvhfxBE9Qb5KQtPHAeulpPgV8Y0roBC2kpuq9icklOw/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=Kb2TjjMXJxNNieoCCUWffJbwYmY%3D)
 
 
 <br>
