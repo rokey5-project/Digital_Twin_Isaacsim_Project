@@ -193,7 +193,7 @@ subscription = omni.kit.app.get_app().get_update_event_stream().create_subscript
 
 ## 🙉 시연 영상
 
-![시연 영상](./demonstration_video.gif)
+![시연 영상](./assets/demonstration_video.gif)
 
 
 <br>
